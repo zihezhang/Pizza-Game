@@ -1,0 +1,7 @@
+INSTRUCTIONS
+Try your best to make the most pizzas in 60 seconds.
+You earn $5.00 for making a pizza,
+and you get an extra $1.50 for each topping.
+You lose $3.00 if you send the wrong pizza. 
+If you make your pizza super quickly, you get a tip.
+Good luck!
