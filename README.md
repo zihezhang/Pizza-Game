@@ -1,2 +1,2 @@
 # Pizza-Game
-Pizza Making Game
+A fun pizza making game!
